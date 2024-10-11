@@ -1,7 +1,7 @@
 # zbft-mapper-commander
 Command VOXL-MAPPER without VOXL-PORTAL
 
-##Build this code in your VOXL2
+## Build this code in your VOXL2
 ```bash
 cd zbft-mapper-commander
 mkdir build
